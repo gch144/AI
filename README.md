@@ -1,5 +1,6 @@
 # AI_
-/////////////////////////////////////////////////////////////////////In Project_01////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////In Project_01////////////////////////////////////////////////////////////////////////////////////                                                                                                                                              
+
 In this we have implement two methods –Gradient Descent method and Newton’s method for function minimalization(please, be aware that the user should have a possibility to select which method will be takenfor function minimalization).
  With case of stopping conditions
  {
@@ -10,6 +11,8 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
  
  
  /////////////////////////////////////////////////////////////////////In Project_02////////////////////////////////////////////////////////////////////////////////////
+ 
+ 
  In this we have implementation must have the following componentsand fulfil the following requirements:
  •Roulette-wheel selection with scaling
  •Single point crossover
@@ -20,6 +23,8 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
   •The range of searched integers as 𝑑≥1that for each dimension i, −2^d≤𝑥(i)<2^d
   •Function parameters A, b, c
   •The algorithm parameters as: population size, crossover probability, mutation probability, number of algorithms iterations
+  
+  
   /////////////////////////////////////////////////////////////////////In Project_03////////////////////////////////////////////////////////////////////////////////////
   
   
