@@ -26,7 +26,7 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
   
   
   /////////////////////////////////////////////////////////////////////In Project_03//////////////////////////////////////////////////////////////////////////////////
-  Rrogram that playstic tac toe with the user on a 3×3board. The game continues until one of the players wins or it is a draw. The first player to get 3 of his/her marks in a row (up, down, across, or diagonally)wins.
+  Rrogram that plays tic-tac-toe with the user on a 3×3board. The game continues until one of the players wins or it is a draw. The first player to get 3 of his/her marks in a row (up, down, across, or diagonally)wins.
   Algorithm: min-max with alpha-beta pruning. 
   
   
