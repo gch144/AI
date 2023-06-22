@@ -38,5 +38,15 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
  ?- to_words(394)
  "three hundred and ninety four"`
 
+ `lab_05`:
+ Create an implementation of the Q-Learning algorithm to solve a toy Reinforcement Learning problem. Use
+the environment provided from OpenAI gym library. The original gym library is no longer updated, however,
+there is a continued development on a fork of gym called gymnasium. We use gymnasium for this exercise.
+Use the following environments for each lab variants:
+1. `Taxi. Use "Taxi-v3"`
+2. ` FrozenLake. Use the arguments "FrozenLake-v1" and map_name="8x8" for gym.make()`
+Read each environment documentation to learn the problem, how to reach the goal, what are the possible
+actions, what states to observe, rewards and termination conditions.
+
 
   
