@@ -33,10 +33,10 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
   `Solve  problems using Prolog.`
   Convert an input number N to English words. N <= 1000
   `Example:`
-  ?- to_words(45)
+ ` ?- to_words(45)
  "forty five"
  ?- to_words(394)
- "three hundred and ninety four"
+ "three hundred and ninety four"`
 
 
   
