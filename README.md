@@ -1,5 +1,5 @@
 # AI_
-/////////////////////////////////////////////////////////////////////In Project_01////////////////////////////////////////////////////////////////////////////////////                                                                                                                                              
+In `Project_01`                                                                                                                                            
 
 In this we have implement two methods –Gradient Descent method and Newton’s method for function minimalization(please, be aware that the user should have a possibility to select which method will be takenfor function minimalization).
  With case of stopping conditions
@@ -10,7 +10,7 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
  }
  
  
- /////////////////////////////////////////////////////////////////////In Project_02////////////////////////////////////////////////////////////////////////////////////
+ `In Project_02`
  
  
  In this we have implementation must have the following componentsand fulfil the following requirements:
@@ -24,8 +24,7 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
   •Function parameters A, b, c
   •The algorithm parameters as: population size, crossover probability, mutation probability, number of algorithms iterations
   
-  
-  /////////////////////////////////////////////////////////////////////In Project_03//////////////////////////////////////////////////////////////////////////////////
+  `In Project_03`
   Rrogram that plays tic-tac-toe with the user on a 3×3board. The game continues until one of the players wins or it is a draw. The first player to get 3 of his/her marks in a row (up, down, across, or diagonally)wins.
   Algorithm: min-max with alpha-beta pruning. 
   
