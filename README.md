@@ -42,8 +42,7 @@ there is a continued development on a fork of gym called gymnasium. We use gymna
 Use the following environments for each lab variants:
 1. `Taxi. Use "Taxi-v3"`
 2. ` FrozenLake. Use the arguments "FrozenLake-v1" and map_name="8x8" for gym.make()`
-Read each environment documentation to learn the problem, how to reach the goal, what are the possible
-actions, what states to observe, rewards and termination conditions.
+
 
 
   
