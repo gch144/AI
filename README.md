@@ -1,4 +1,4 @@
-# AI_
+# AI
 `In Lab_01`:                                                                                                                                            
 
 In this we have implement two methods –Gradient Descent method and Newton’s method for function minimalization(please, be aware that the user should have a possibility to select which method will be takenfor function minimalization).
@@ -30,15 +30,12 @@ In this we have implement two methods –Gradient Descent method and Newton’s 
   `Algorithm: min-max with alpha-beta pruning.` 
   
   `Lab_04`:
+  
   `Solve  problems using Prolog.`
   Convert an input number N to English words. N <= 1000
-  `Example:`
- ` ?- to_words(45)
- "forty five"
- ?- to_words(394)
- "three hundred and ninety four"`
-
+ 
  `lab_05`:
+ 
  Create an implementation of the Q-Learning algorithm to solve a toy Reinforcement Learning problem. Use
 the environment provided from OpenAI gym library. The original gym library is no longer updated, however,
 there is a continued development on a fork of gym called gymnasium. We use gymnasium for this exercise.
